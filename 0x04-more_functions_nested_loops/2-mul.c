@@ -5,12 +5,12 @@
  * @b: b - variable
  * Return: Always 0.
  */
-int num(int a, int b)
+int mul(int a, int b)
 {
- int num;
+ int mul;
 
- num = a * b;
+ mul = a * b;
 
- return (num);
+ return (mul);
 }
 
